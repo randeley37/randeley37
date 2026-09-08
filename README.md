@@ -138,7 +138,7 @@ Keep your Discord bots online.
 
 ### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,cloudflare" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare" />
 
 </div>
 
