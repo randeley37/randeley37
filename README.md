@@ -12,12 +12,12 @@
 
 <div align="center">
 
-<a href="https://github.com/randeley37">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://luso.host">
+<img src="https://img.shields.io/badge/LusoHost-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.luso.host">
-<img src="https://img.shields.io/badge/LusoHost-8B0000?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Our Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
