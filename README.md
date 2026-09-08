@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="./lusohost.png" width="180" alt="LusoHost Logo"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:120000,100:8B0000&height=240&section=header&text=RANDELEY&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FOUNDER%20%2F%2F%20DEVELOPER%20%2F%2F%20LUSOHOST&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=800&lines=Initializing+RANDELEY+SYSTEM...;Founder+of+LusoHost;Building+the+future+of+Discord+Bot+Hosting;No+Code.+Fully+Configurable.+Always+Online.;Infrastructure+%2F%2F+Cybersecurity+%2F%2F+Automation;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:120000,100:8B0000&height=240&section=header&text=RANDELEY&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FOUNDER%20%2F%2F%20DEVELOPER%20%2F%2F%20LUSOHOST&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
