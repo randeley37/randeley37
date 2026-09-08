@@ -10,6 +10,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:120000,100:8B0000&height=240&section=header&text=RANDELEY&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CEO%20%2F%2F%20DEVELOPER%20%2F%2F%20LUSOHOST&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
+<div align="center">
+
+<a href="https://github.com/randeley37">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.luso.host">
+<img src="https://img.shields.io/badge/LusoHost-8B0000?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=800&lines=Initializing+RANDELEY+SYSTEM...;CEO+of+LusoHost;Building+the+future+of+Discord+Bot+Hosting;No+Code.+Fully+Configurable.+Always+Online.;Infrastructure+%2F%2F+Cybersecurity+%2F%2F+Automation;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation"/>
 
@@ -305,7 +317,7 @@ SYSTEM:
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://luso.host">
+<a href="https://discord.luso.host">
 <img src="https://img.shields.io/badge/LusoHost-8B0000?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
