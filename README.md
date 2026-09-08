@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://luso.host">
-<img src="https://img.shields.io/badge/LusoHost-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LusoHost-050505?style=for-the-badge&logo=googletasks&logoColor=white"/>
 </a>
 
 <a href="https://discord.luso.host">
