@@ -301,7 +301,7 @@ SYSTEM:
 
 <div align="center">
 
-<a href="https://github.com/RANDELEY">
+<a href="https://github.com/randeley37">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
