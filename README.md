@@ -1,217 +1,118 @@
-<!-- ========================================================= -->
-
-<!--                  RANDELEY — GITHUB README                 -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:8b0000&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=RANDELEY%20%2F%2F%20DEVELOPER%20SYSTEM&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:120000,100:8B0000&height=240&section=header&text=RANDELEY&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FOUNDER%20%2F%2F%20DEVELOPER%20%2F%2F%20LUSOHOST&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=700&lines=Initializing+RANDELEY+SYSTEM...;Artificial+Intelligence+%2F%2F+Developer;Discord+Bots+%2F%2F+Web+Systems+%2F%2F+Infrastructure;Building+systems+that+actually+do+things.;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=800&lines=Initializing+RANDELEY+SYSTEM...;Founder+of+LusoHost;Building+the+future+of+Discord+Bot+Hosting;No+Code.+Fully+Configurable.+Always+Online.;Infrastructure+%2F%2F+Cybersecurity+%2F%2F+Automation;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RANDELEY&style=for-the-badge&color=8b0000&label=SYSTEM+ACCESS"/>
+<img src="https://komarev.com/ghpvc/?username=RANDELEY&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01` // SYSTEM PROFILE
+# `01` // WHO AM I?
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    RANDELEY // PROFILE                      │
-├─────────────────────────────────────────────────────────────┤
-│ STATUS       : ONLINE                                       │
-│ ROLE         : SOFTWARE DEVELOPER                           │
-│ SPECIALTY   : AI • AUTOMATION • WEB • DISCORD              │
-│ ENVIRONMENT  : LINUX / WINDOWS                              │
-│ MODE         : BUILD                                        │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                     RANDELEY // PROFILE                      │
+├──────────────────────────────────────────────────────────────┤
+│ ROLE          : FOUNDER & DEVELOPER                         │
+│ COMPANY       : LUSOHOST                                    │
+│ FOCUS         : DISCORD • CLOUD • AUTOMATION • SECURITY     │
+│ ENVIRONMENT   : LINUX                                       │
+│ STATUS        : BUILDING                                    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> **I build software, automation systems and digital infrastructure.**
+I'm **Randeley**, founder and developer of **LusoHost** — a platform built to make Discord bot hosting simple, powerful and accessible to everyone.
 
-I'm a developer focused on creating **useful, scalable and intelligent systems** — from Discord bots and web applications to AI-powered tools and server infrastructure.
+The idea behind LusoHost is simple:
 
-I enjoy turning ideas into working products, automating repetitive processes and experimenting with modern technologies.
+> **Create, configure and host a Discord bot without writing code.**
+
+Instead of forcing users to build and maintain their own infrastructure, LusoHost provides an intuitive interface where bots can be created and configured through a visual dashboard.
+
+My focus is on building the **technology, infrastructure, automation and security** behind the platform.
 
 ```js
 const randeley = {
+    role: "Founder & Developer",
+
+    company: "LusoHost",
+
     focus: [
-        "Artificial Intelligence",
+        "Discord Infrastructure",
+        "Bot Hosting",
         "Automation",
-        "Web Development",
-        "Discord Development",
-        "Server Infrastructure"
+        "Cybersecurity",
+        "Cloud Infrastructure"
     ],
 
-    mindset: "Build. Automate. Improve.",
-    status: "ONLINE"
+    philosophy: "Make complex technology simple."
 };
 ```
 
 ---
 
-## `02` // CORE TECHNOLOGY
+# `02` // LUSOHOST
 
 <div align="center">
 
-### Languages
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:180000&height=120&text=LUSOHOST&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,sql" />
+### Discord Bot Hosting — Without The Code
 
-<br><br>
+**LusoHost** is a platform designed to allow anyone to create and host Discord bots without needing to program.
 
-### Frameworks & Runtime
+Users can manage their bots through a **fully configurable interface**, while the infrastructure handles the complexity behind the scenes.
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,vite" />
-
-<br><br>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,mysql,git,github,vscode" />
-
-<br><br>
-
-### AI & Automation
-
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
-
-</div>
-
----
-
-## `03` // TOOLKIT
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### ⚡ Development
+### 🤖
 
-```text
-Node.js
-JavaScript
-TypeScript
-Python
-React
-Next.js
-REST APIs
-WebSockets
-SQL
-Git
-```
+**NO CODE**
+
+Create bots without programming.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🖥 Infrastructure
+### ⚙️
 
-```text
-Linux
-Ubuntu
-Docker
-Nginx
-MariaDB
-VPS
-Game Servers
-Cloud Infrastructure
-Server Automation
-Monitoring
-```
+**CONFIGURABLE**
 
-</td>
-</tr>
-</table>
-
----
-
-## `04` // FEATURED PROJECTS
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔴 LusoHost
-
-**Discord Bot Hosting Platform**
-
-A platform designed to simplify Discord bot hosting without requiring users to manage complex infrastructure.
-
-```text
-STATUS   :: ACTIVE
-TYPE     :: PLATFORM
-STACK    :: NODE.JS / WEB / LINUX
-FOCUS    :: HOSTING / AUTOMATION
-```
+Manage everything through an interface.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🤖 AI Systems
+### 🛡️
 
-**AI-powered automation**
+**SECURE**
 
-Experimental systems combining artificial intelligence, automation and developer tooling.
-
-```text
-STATUS   :: R&D
-TYPE     :: ARTIFICIAL INTELLIGENCE
-STACK    :: PYTHON / NODE.JS
-FOCUS    :: AI / AUTOMATION
-```
+Infrastructure designed with security in mind.
 
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### ☁️
 
-<td width="50%" valign="top">
+**HOSTED**
 
-### 🎮 Game Infrastructure
-
-**Dedicated server infrastructure**
-
-Management and automation systems for dedicated game servers and their surrounding infrastructure.
-
-```text
-STATUS   :: ACTIVE
-TYPE     :: INFRASTRUCTURE
-STACK    :: LINUX / BASH / SERVERS
-FOCUS    :: PERFORMANCE / AUTOMATION
-```
+Keep your Discord bots online.
 
 </td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Discord Systems
-
-**Advanced Discord automation**
-
-Bots, moderation systems, integrations and custom Discord infrastructure.
-
-```text
-STATUS   :: ACTIVE
-TYPE     :: AUTOMATION
-STACK    :: NODE.JS / DISCORD.JS
-FOCUS    :: BOTS / APIs / AUTOMATION
-```
-
-</td>
-
 </tr>
 </table>
 
@@ -219,25 +120,177 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 
 ---
 
-## `05` // CURRENT OBJECTIVES
+# `03` // LUSOHOST STACK
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,postgres,npm" />
+
+<br><br>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,jsx" />
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,cloudflare" />
+
+</div>
+
+<br>
+
+```text
+                    ┌─────────────────┐
+                    │    LUSOHOST     │
+                    │    PLATFORM     │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+        ┌──────────┐   ┌──────────┐   ┌──────────┐
+        │   WEB    │   │   API    │   │ DATABASE │
+        │ HTML/CSS │   │ NODE.JS  │   │ POSTGRES │
+        │   JSX    │   │   JS     │   │          │
+        └──────────┘   └──────────┘   └──────────┘
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │    LINUX VPS    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    DISCORD      │
+                    │      BOTS       │
+                    └─────────────────┘
+```
+
+---
+
+# `04` // TECHNOLOGY
+
+<div align="center">
+
+|   Technology   | Purpose                            |
+| :------------: | :--------------------------------- |
+| **JavaScript** | Core application logic             |
+|   **Node.js**  | Backend & services                 |
+| **PostgreSQL** | Database infrastructure            |
+|    **HTML**    | Web structure                      |
+|     **CSS**    | Interface & visual layer           |
+|     **JSX**    | Component-based interfaces         |
+|    **JSON**    | Configuration & data               |
+|     **NPM**    | Package management                 |
+|    **Linux**   | Server infrastructure              |
+| **Cloudflare** | Edge security & traffic protection |
+
+</div>
+
+---
+
+# `05` // SECURITY INFRASTRUCTURE
+
+Security isn't an optional feature.
+
+LusoHost is built with a strong focus on protecting the platform, infrastructure and users.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     SECURITY LAYER                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   INTERNET                                                   │
+│      │                                                       │
+│      ▼                                                       │
+│  ┌──────────────┐                                           │
+│  │  CLOUDFLARE  │  ← Traffic Protection / DDoS Mitigation   │
+│  └──────┬───────┘                                           │
+│         │                                                    │
+│         ▼                                                    │
+│  ┌──────────────┐                                           │
+│  │    NETWORK   │  ← Filtering & Protection                 │
+│  └──────┬───────┘                                           │
+│         │                                                    │
+│         ▼                                                    │
+│  ┌──────────────┐                                           │
+│  │  APPLICATION │  ← Application-Level Security              │
+│  └──────┬───────┘                                           │
+│         │                                                    │
+│         ▼                                                    │
+│  ┌──────────────┐                                           │
+│  │   LINUX      │  ← Server Infrastructure                   │
+│  └──────────────┘                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Security Stack
+
+<img src="https://skillicons.dev/icons?i=cloudflare,linux" />
+
+```text
+DDoS Protection
+Traffic Filtering
+Application Security
+Infrastructure Hardening
+Access Control
+Server Monitoring
+```
+
+---
+
+# `06` // WHAT I'M BUILDING
 
 ```bash
-┌─[ RANDELEY@SYSTEM ]
-└─$ ./current_objectives.sh
+randeley@lusohost:~$ ./status
 
-[■■■■■■■■■■■■■■■■■■■■] 100%  Build better software
-[■■■■■■■■■■■■■■■■■□□□]  85%  Explore Artificial Intelligence
-[■■■■■■■■■■■■■■□□□■■■]  70%  Improve infrastructure
-[■■■■■■■■■■■■■■□□□■■■]  70%  Automate everything possible
-[■■■■■■■■■■■■□□□□■■■■]  60%  Launch new projects
+[ONLINE] LusoHost Platform
+[ONLINE] Discord Bot Infrastructure
+[ONLINE] Web Dashboard
+[ONLINE] Database Infrastructure
+[ONLINE] Security Layer
 
-> Looking for the next system to build...
-> Status: ONLINE
+randeley@lusohost:~$ ./mission
+
+> Make Discord bot hosting accessible to everyone.
+
+> Remove unnecessary technical complexity.
+
+> Build secure and scalable infrastructure.
+
+> Automate everything that can be automated.
 ```
 
 ---
 
-# `06` // GITHUB TELEMETRY
+# `07` // CURRENT OBJECTIVES
+
+```text
+┌─ CURRENT MISSION ───────────────────────────────────────────┐
+
+[████████████████████] LusoHost Development
+[███████████████████░] Platform Improvements
+[██████████████████░░] Infrastructure
+[█████████████████░░░] Cybersecurity
+[████████████████░░░░] Automation
+[███████████████░░░░░] New Features
+
+SYSTEM:
+████████████████████████████████████████  ONLINE
+
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `08` // GITHUB TELEMETRY
 
 <div align="center">
 
@@ -253,7 +306,7 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 
 ---
 
-## `07` // ACTIVITY MATRIX
+# `09` // ACTIVITY MATRIX
 
 <div align="center">
 
@@ -263,7 +316,7 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 
 ---
 
-## `08` // ACHIEVEMENTS
+# `10` // TROPHIES
 
 <div align="center">
 
@@ -273,17 +326,17 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 
 ---
 
-## `09` // CONTRIBUTION PROTOCOL
+# `11` // CONTRIBUTION PROTOCOL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RANDELEY/RANDELEY/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/RANDELEY/RANDELEY/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
 ---
 
-## `10` // CONNECT
+# `12` // CONNECT
 
 <div align="center">
 
@@ -291,16 +344,8 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com">
-<img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://luso.host">
+<img src="https://img.shields.io/badge/LusoHost-8B0000?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -309,18 +354,28 @@ FOCUS    :: BOTS / APIs / AUTOMATION
 
 <div align="center">
 
+### LusoHost
+
+**Discord Bot Hosting — Without The Code.**
+
+<br>
+
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                 "BUILD THE FUTURE."                        ║
-║                                                            ║
-║             SYSTEM STATUS :: OPERATIONAL                  ║
-║             CONNECTION   :: ESTABLISHED                   ║
-║             DEVELOPER    :: RANDELEY                      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    SYSTEM STATUS                             ║
+║                                                              ║
+║       DEVELOPER       :: RANDELEY                            ║
+║       PLATFORM        :: LUSOHOST                            ║
+║       INFRASTRUCTURE  :: LINUX                               ║
+║       SECURITY        :: CLOUDFLARE                          ║
+║       STATUS          :: ONLINE                              ║
+║                                                              ║
+║              BUILD THE FUTURE. AUTOMATE IT.                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:111111,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:180000,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
