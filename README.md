@@ -290,52 +290,6 @@ SYSTEM:
 
 ---
 
-# `08` // GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RANDELEY&show_icons=true&hide_border=true&bg_color=050505&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&ring_color=ff3b3b" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANDELEY&layout=compact&hide_border=true&bg_color=050505&title_color=ff3b3b&text_color=ffffff" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RANDELEY&theme=dark&hide_border=true&background=050505&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" width="70%"/>
-
-</div>
-
----
-
-# `09` // ACTIVITY MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANDELEY&bg_color=050505&color=ffffff&line=ff3b3b&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `10` // TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RANDELEY&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" width="90%"/>
-
-</div>
-
----
-
-# `11` // CONTRIBUTION PROTOCOL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RANDELEY/RANDELEY/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
 # `12` // CONNECT
 
 <div align="center">
